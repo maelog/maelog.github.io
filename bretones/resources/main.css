@@ -313,7 +313,8 @@ body>.message { position: fixed; }
     border-right:0.1rem solid #fff
 }
 .board--description{
-	  margin-left: auto;
+	text-align: left;
+	  text-align: justify;
     padding:1rem
 }
 .question--answer{
@@ -324,7 +325,7 @@ body>.message { position: fixed; }
     padding:0
 }
 .rule--container{
-    position:relative
+    position:left
 }
 
 .post--footer,.reply--footer{
